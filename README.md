@@ -2,7 +2,7 @@
 <details>
   <summary align="center">GitHub Stats</summary>
   <p align="center">
-    <a href="https://github.com/johnbjackson">
+    <a href="https://informationtechnologyspecialist.github.io/">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbjackson&theme=transparent" alt="Profile Details">
     </a>
     <a href="https://github.com/johnbjackson">
